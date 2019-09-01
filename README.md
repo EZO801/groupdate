@@ -16,6 +16,7 @@ Supports PostgreSQL, MySQL, and Redshift, plus arrays and hashes
 Limited support for [SQLite](#for-sqlite)
 
 [![Build Status](https://travis-ci.org/ankane/groupdate.svg?branch=master)](https://travis-ci.org/ankane/groupdate)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fgroupdate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fgroupdate?ref=badge_shield)
 
 :cupid: Goes hand in hand with [Chartkick](http://ankane.github.io/chartkick/)
 
@@ -281,3 +282,7 @@ Everyone is encouraged to help improve this project. Here are a few ways you can
 - Fix bugs and [submit pull requests](https://github.com/ankane/groupdate/pulls)
 - Write, clarify, or fix documentation
 - Suggest or add new features
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fgroupdate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fgroupdate?ref=badge_large)
